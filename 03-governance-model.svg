@@ -1,0 +1,157 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 520" font-family="'Georgia', 'Times New Roman', serif">
+
+  <rect width="960" height="520" fill="#FFFFFF"/>
+  <line x1="40" y1="20" x2="920" y2="20" stroke="#1a1a1a" stroke-width="0.5"/>
+
+  <text x="480" y="52" text-anchor="middle" fill="#1a1a1a" font-size="13" letter-spacing="6" font-weight="400" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif">LEAN DAO FRAMEWORK</text>
+  <text x="480" y="76" text-anchor="middle" fill="#1a1a1a" font-size="22" font-weight="400">Governance — Three Decision Mechanisms</text>
+  <line x1="340" y1="88" x2="620" y2="88" stroke="#1a1a1a" stroke-width="0.5"/>
+
+  <!-- ═══ COLUMN 1: LIQUID DEMOCRACY ═══ -->
+  <rect x="30" y="105" width="290" height="360" rx="2" fill="none" stroke="#1a1a1a" stroke-width="1"/>
+  <rect x="30" y="105" width="290" height="2" fill="#1a1a1a"/>
+
+  <text x="175" y="132" text-anchor="middle" fill="#1a1a1a" font-size="14" font-weight="400">Liquid Democracy</text>
+  <text x="175" y="150" text-anchor="middle" fill="#999" font-size="9" font-style="italic">Vote directly or delegate to domain experts</text>
+
+  <!-- Flow -->
+  <rect x="55" y="168" width="240" height="26" rx="1" fill="#f7f7f7" stroke="#ccc" stroke-width="0.5"/>
+  <text x="175" y="185" text-anchor="middle" fill="#333" font-size="9" font-family="'Helvetica Neue', sans-serif">Proposal Submitted</text>
+
+  <line x1="175" y1="194" x2="175" y2="206" stroke="#ccc" stroke-width="0.5"/>
+
+  <rect x="55" y="208" width="240" height="26" rx="1" fill="#f7f7f7" stroke="#ccc" stroke-width="0.5"/>
+  <text x="175" y="225" text-anchor="middle" fill="#333" font-size="9" font-family="'Helvetica Neue', sans-serif">Discussion Period — 48 hours</text>
+
+  <line x1="175" y1="234" x2="175" y2="246" stroke="#ccc" stroke-width="0.5"/>
+
+  <rect x="55" y="248" width="240" height="26" rx="1" fill="#f7f7f7" stroke="#ccc" stroke-width="0.5"/>
+  <text x="175" y="265" text-anchor="middle" fill="#333" font-size="9" font-family="'Helvetica Neue', sans-serif">Voting Period — 72 hours</text>
+
+  <line x1="175" y1="274" x2="175" y2="286" stroke="#ccc" stroke-width="0.5"/>
+
+  <rect x="55" y="288" width="240" height="26" rx="1" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0.5"/>
+  <text x="175" y="305" text-anchor="middle" fill="#fff" font-size="9" font-family="'Helvetica Neue', sans-serif" font-weight="500">Auto-Execute via Smart Contract</text>
+
+  <!-- Delegation diagram -->
+  <text x="175" y="340" text-anchor="middle" fill="#aaa" font-size="8" font-style="italic">Delegation model — revocable at any time</text>
+
+  <circle cx="85" cy="370" r="14" fill="none" stroke="#1a1a1a" stroke-width="0.7"/>
+  <text x="85" y="374" text-anchor="middle" fill="#333" font-size="7" font-family="'Helvetica Neue', sans-serif">Holder</text>
+  <line x1="99" y1="370" x2="147" y2="370" stroke="#1a1a1a" stroke-width="0.5"/>
+  <polygon points="144,367 152,370 144,373" fill="#1a1a1a"/>
+  <text x="123" y="363" text-anchor="middle" fill="#aaa" font-size="6.5" font-family="'Helvetica Neue', sans-serif">delegate</text>
+
+  <circle cx="168" cy="370" r="14" fill="#f0f0f0" stroke="#1a1a1a" stroke-width="0.7"/>
+  <text x="168" y="374" text-anchor="middle" fill="#333" font-size="7" font-family="'Helvetica Neue', sans-serif">Expert</text>
+  <line x1="182" y1="370" x2="230" y2="370" stroke="#1a1a1a" stroke-width="0.5"/>
+  <polygon points="227,367 235,370 227,373" fill="#1a1a1a"/>
+  <text x="206" y="363" text-anchor="middle" fill="#aaa" font-size="6.5" font-family="'Helvetica Neue', sans-serif">votes</text>
+
+  <circle cx="250" cy="370" r="14" fill="none" stroke="#1a1a1a" stroke-width="0.5"/>
+  <text x="250" y="374" text-anchor="middle" fill="#888" font-size="7" font-family="'Helvetica Neue', sans-serif">DAO</text>
+
+  <!-- Best for -->
+  <rect x="55" y="405" width="240" height="22" rx="1" fill="#fafafa" stroke="#eee" stroke-width="0.5"/>
+  <text x="175" y="420" text-anchor="middle" fill="#1a1a1a" font-size="8" font-family="'Helvetica Neue', sans-serif" font-weight="500" letter-spacing="1">ROUTINE OPERATIONS · BUDGETS · POLICY</text>
+
+  <!-- ═══ COLUMN 2: CONVICTION VOTING ═══ -->
+  <rect x="335" y="105" width="290" height="360" rx="2" fill="none" stroke="#1a1a1a" stroke-width="1"/>
+  <rect x="335" y="105" width="290" height="2" fill="#1a1a1a"/>
+
+  <text x="480" y="132" text-anchor="middle" fill="#1a1a1a" font-size="14" font-weight="400">Conviction Voting</text>
+  <text x="480" y="150" text-anchor="middle" fill="#999" font-size="9" font-style="italic">Longer you hold, stronger your influence</text>
+
+  <!-- Conviction curve chart -->
+  <rect x="360" y="168" width="240" height="130" rx="1" fill="#fafafa" stroke="#eee" stroke-width="0.5"/>
+
+  <!-- Axes -->
+  <line x1="385" y1="282" x2="585" y2="282" stroke="#ccc" stroke-width="0.5"/>
+  <line x1="385" y1="178" x2="385" y2="282" stroke="#ccc" stroke-width="0.5"/>
+  <text x="485" y="296" text-anchor="middle" fill="#aaa" font-size="7" font-family="'Helvetica Neue', sans-serif">TIME STAKED →</text>
+  <text x="370" y="232" text-anchor="middle" fill="#aaa" font-size="7" font-family="'Helvetica Neue', sans-serif" transform="rotate(-90, 370, 232)">INFLUENCE</text>
+
+  <!-- The curve -->
+  <path d="M 390 278 Q 430 270, 450 255 Q 470 240, 490 218 Q 510 198, 540 190 Q 560 186, 580 184" stroke="#1a1a1a" stroke-width="1.5" fill="none"/>
+
+  <!-- Threshold -->
+  <line x1="385" y1="210" x2="585" y2="210" stroke="#999" stroke-width="0.5" stroke-dasharray="4,3"/>
+  <text x="575" y="205" fill="#999" font-size="7" font-family="'Helvetica Neue', sans-serif" text-anchor="end">threshold</text>
+
+  <!-- Intersection -->
+  <circle cx="500" cy="210" r="3" fill="#1a1a1a"/>
+  <line x1="500" y1="210" x2="500" y2="282" stroke="#ccc" stroke-width="0.5" stroke-dasharray="2,2"/>
+
+  <!-- Flow -->
+  <rect x="360" y="310" width="115" height="22" rx="1" fill="#f7f7f7" stroke="#ccc" stroke-width="0.5"/>
+  <text x="417" y="325" text-anchor="middle" fill="#333" font-size="8" font-family="'Helvetica Neue', sans-serif">Stake tokens</text>
+  <text x="481" y="325" fill="#999" font-size="9">→</text>
+  <rect x="488" y="310" width="115" height="22" rx="1" fill="#f7f7f7" stroke="#ccc" stroke-width="0.5"/>
+  <text x="545" y="325" text-anchor="middle" fill="#333" font-size="8" font-family="'Helvetica Neue', sans-serif">Accumulate</text>
+
+  <rect x="360" y="340" width="115" height="22" rx="1" fill="#f7f7f7" stroke="#ccc" stroke-width="0.5"/>
+  <text x="417" y="355" text-anchor="middle" fill="#333" font-size="8" font-family="'Helvetica Neue', sans-serif">Threshold met</text>
+  <text x="481" y="355" fill="#999" font-size="9">→</text>
+  <rect x="488" y="340" width="115" height="22" rx="1" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0.5"/>
+  <text x="545" y="355" text-anchor="middle" fill="#fff" font-size="8" font-family="'Helvetica Neue', sans-serif" font-weight="500">Auto-Execute</text>
+
+  <text x="480" y="388" text-anchor="middle" fill="#aaa" font-size="8" font-style="italic">Prevents snap decisions.</text>
+  <text x="480" y="400" text-anchor="middle" fill="#aaa" font-size="8" font-style="italic">Favors sustained conviction over hype.</text>
+
+  <rect x="360" y="415" width="240" height="22" rx="1" fill="#fafafa" stroke="#eee" stroke-width="0.5"/>
+  <text x="480" y="430" text-anchor="middle" fill="#1a1a1a" font-size="8" font-family="'Helvetica Neue', sans-serif" font-weight="500" letter-spacing="1">LONG-TERM PRIORITIES · RESOURCE ALLOCATION</text>
+
+  <!-- ═══ COLUMN 3: FUTARCHY ═══ -->
+  <rect x="640" y="105" width="290" height="360" rx="2" fill="none" stroke="#1a1a1a" stroke-width="1"/>
+  <rect x="640" y="105" width="290" height="2" fill="#1a1a1a"/>
+
+  <text x="785" y="132" text-anchor="middle" fill="#1a1a1a" font-size="14" font-weight="400">Futarchy</text>
+  <text x="785" y="150" text-anchor="middle" fill="#999" font-size="9" font-style="italic">Prediction markets decide strategy</text>
+
+  <!-- Market box -->
+  <rect x="665" y="168" width="240" height="75" rx="1" fill="#fafafa" stroke="#eee" stroke-width="0.5"/>
+  <text x="785" y="188" text-anchor="middle" fill="#666" font-size="8" font-style="italic">"If we enter Market X, will revenue increase &gt;20%?"</text>
+
+  <rect x="680" y="200" width="100" height="32" rx="1" fill="#f0f0f0" stroke="#ccc" stroke-width="0.5"/>
+  <text x="730" y="216" text-anchor="middle" fill="#1a1a1a" font-size="11" font-family="'Helvetica Neue', sans-serif" font-weight="700">YES: 72%</text>
+  <text x="730" y="228" text-anchor="middle" fill="#999" font-size="7" font-family="'Helvetica Neue', sans-serif">$1.4M staked</text>
+
+  <rect x="790" y="200" width="100" height="32" rx="1" fill="none" stroke="#ccc" stroke-width="0.5"/>
+  <text x="840" y="216" text-anchor="middle" fill="#888" font-size="11" font-family="'Helvetica Neue', sans-serif">NO: 28%</text>
+  <text x="840" y="228" text-anchor="middle" fill="#bbb" font-size="7" font-family="'Helvetica Neue', sans-serif">$540K staked</text>
+
+  <!-- Flow -->
+  <rect x="665" y="258" width="240" height="24" rx="1" fill="#f7f7f7" stroke="#ccc" stroke-width="0.5"/>
+  <text x="785" y="274" text-anchor="middle" fill="#333" font-size="8.5" font-family="'Helvetica Neue', sans-serif">1. Create conditional market</text>
+
+  <line x1="785" y1="282" x2="785" y2="290" stroke="#ccc" stroke-width="0.5"/>
+
+  <rect x="665" y="292" width="240" height="24" rx="1" fill="#f7f7f7" stroke="#ccc" stroke-width="0.5"/>
+  <text x="785" y="308" text-anchor="middle" fill="#333" font-size="8.5" font-family="'Helvetica Neue', sans-serif">2. AI agents + humans trade</text>
+
+  <line x1="785" y1="316" x2="785" y2="324" stroke="#ccc" stroke-width="0.5"/>
+
+  <rect x="665" y="326" width="240" height="24" rx="1" fill="#f7f7f7" stroke="#ccc" stroke-width="0.5"/>
+  <text x="785" y="342" text-anchor="middle" fill="#333" font-size="8.5" font-family="'Helvetica Neue', sans-serif">3. Market settles on real data</text>
+
+  <line x1="785" y1="350" x2="785" y2="358" stroke="#ccc" stroke-width="0.5"/>
+
+  <rect x="665" y="360" width="240" height="24" rx="1" fill="#1a1a1a"/>
+  <text x="785" y="376" text-anchor="middle" fill="#fff" font-size="8.5" font-family="'Helvetica Neue', sans-serif" font-weight="500">4. Winning strategy executes</text>
+
+  <text x="785" y="404" text-anchor="middle" fill="#aaa" font-size="8" font-style="italic">Skin-in-the-game predictions</text>
+  <text x="785" y="416" text-anchor="middle" fill="#aaa" font-size="8" font-style="italic">beat opinion polls every time.</text>
+
+  <rect x="665" y="430" width="240" height="22" rx="1" fill="#fafafa" stroke="#eee" stroke-width="0.5"/>
+  <text x="785" y="445" text-anchor="middle" fill="#1a1a1a" font-size="8" font-family="'Helvetica Neue', sans-serif" font-weight="500" letter-spacing="1">STRATEGIC PIVOTS · MARKET ENTRY / EXIT</text>
+
+  <!-- ═══ DECISION ROUTING BAR ═══ -->
+  <rect x="30" y="480" width="900" height="26" rx="1" fill="#1a1a1a"/>
+  <text x="175" y="497" text-anchor="middle" fill="#ccc" font-size="9" font-family="'Helvetica Neue', sans-serif">Routine? → Liquid Democracy</text>
+  <line x1="325" y1="484" x2="325" y2="502" stroke="#444" stroke-width="0.5"/>
+  <text x="480" y="497" text-anchor="middle" fill="#ccc" font-size="9" font-family="'Helvetica Neue', sans-serif">Long-term? → Conviction Voting</text>
+  <line x1="635" y1="484" x2="635" y2="502" stroke="#444" stroke-width="0.5"/>
+  <text x="785" y="497" text-anchor="middle" fill="#ccc" font-size="9" font-family="'Helvetica Neue', sans-serif">Strategic? → Futarchy Markets</text>
+
+  <line x1="40" y1="516" x2="920" y2="516" stroke="#1a1a1a" stroke-width="0.5"/>
+</svg>

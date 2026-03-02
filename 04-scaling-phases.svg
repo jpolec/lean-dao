@@ -1,0 +1,164 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 500" font-family="'Georgia', 'Times New Roman', serif">
+
+  <rect width="960" height="500" fill="#FFFFFF"/>
+  <line x1="40" y1="20" x2="920" y2="20" stroke="#1a1a1a" stroke-width="0.5"/>
+
+  <text x="480" y="52" text-anchor="middle" fill="#1a1a1a" font-size="13" letter-spacing="6" font-weight="400" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif">LEAN DAO FRAMEWORK</text>
+  <text x="480" y="76" text-anchor="middle" fill="#1a1a1a" font-size="22" font-weight="400">Scaling Phases — Nucleus to Organism</text>
+  <line x1="350" y1="88" x2="610" y2="88" stroke="#1a1a1a" stroke-width="0.5"/>
+
+  <!-- Timeline bar -->
+  <rect x="50" y="108" width="870" height="3" rx="1.5" fill="#eee"/>
+  <rect x="50" y="108" width="190" height="3" rx="1.5" fill="#1a1a1a"/>
+  <rect x="240" y="108" width="230" height="3" rx="1.5" fill="#666"/>
+  <rect x="470" y="108" width="230" height="3" rx="1.5" fill="#999"/>
+  <rect x="700" y="108" width="220" height="3" rx="1.5" fill="#ccc"/>
+
+  <!-- Timeline markers -->
+  <circle cx="50" cy="109" r="4" fill="#1a1a1a"/>
+  <circle cx="240" cy="109" r="4" fill="#666"/>
+  <circle cx="470" cy="109" r="4" fill="#999"/>
+  <circle cx="700" cy="109" r="4" fill="#ccc"/>
+
+  <text x="50" y="100" fill="#1a1a1a" font-size="8" font-family="'Helvetica Neue', sans-serif">Month 0</text>
+  <text x="240" y="100" fill="#666" font-size="8" font-family="'Helvetica Neue', sans-serif">Month 6</text>
+  <text x="470" y="100" fill="#999" font-size="8" font-family="'Helvetica Neue', sans-serif">Month 18</text>
+  <text x="700" y="100" fill="#aaa" font-size="8" font-family="'Helvetica Neue', sans-serif">Month 36</text>
+  <text x="910" y="100" fill="#ccc" font-size="8" font-family="'Helvetica Neue', sans-serif" text-anchor="end">∞</text>
+
+  <!-- ═══ PHASE 1 ═══ -->
+  <rect x="30" y="130" width="215" height="330" rx="2" fill="none" stroke="#1a1a1a" stroke-width="1.2"/>
+
+  <text x="137" y="155" text-anchor="middle" fill="#1a1a1a" font-size="9" letter-spacing="3" font-family="'Helvetica Neue', sans-serif">PHASE 1</text>
+  <text x="137" y="175" text-anchor="middle" fill="#1a1a1a" font-size="16" font-weight="400">Nucleus</text>
+  <text x="137" y="192" text-anchor="middle" fill="#999" font-size="9" font-style="italic">0–6 months</text>
+
+  <line x1="55" y1="205" x2="220" y2="205" stroke="#eee" stroke-width="0.5"/>
+
+  <text x="55" y="225" fill="#1a1a1a" font-size="9" font-family="'Helvetica Neue', sans-serif" font-weight="500">Workforce</text>
+  <text x="55" y="242" fill="#666" font-size="9">3–5 humans</text>
+  <text x="55" y="257" fill="#666" font-size="9">10 AI agents</text>
+  <text x="55" y="272" fill="#aaa" font-size="9">0 humanoids</text>
+
+  <line x1="55" y1="283" x2="220" y2="283" stroke="#eee" stroke-width="0.5"/>
+
+  <text x="55" y="300" fill="#1a1a1a" font-size="9" font-family="'Helvetica Neue', sans-serif" font-weight="500">Focus</text>
+  <text x="55" y="316" fill="#666" font-size="8.5">Product-market fit</text>
+  <text x="55" y="330" fill="#666" font-size="8.5">Core smart contracts</text>
+  <text x="55" y="344" fill="#666" font-size="8.5">AI agent training</text>
+
+  <line x1="55" y1="355" x2="220" y2="355" stroke="#eee" stroke-width="0.5"/>
+
+  <text x="55" y="372" fill="#1a1a1a" font-size="9" font-family="'Helvetica Neue', sans-serif" font-weight="500">Governance</text>
+  <text x="55" y="388" fill="#666" font-size="8.5">Simple multisig (3/5)</text>
+
+  <line x1="55" y1="400" x2="220" y2="400" stroke="#eee" stroke-width="0.5"/>
+
+  <text x="55" y="417" fill="#1a1a1a" font-size="9" font-family="'Helvetica Neue', sans-serif" font-weight="500">Autonomy</text>
+  <rect x="55" y="424" width="170" height="6" rx="3" fill="#eee"/>
+  <rect x="55" y="424" width="25" height="6" rx="3" fill="#1a1a1a"/>
+  <text x="55" y="445" fill="#999" font-size="7.5" font-family="'Helvetica Neue', sans-serif">15%</text>
+
+  <!-- ═══ PHASE 2 ═══ -->
+  <rect x="260" y="130" width="215" height="330" rx="2" fill="none" stroke="#666" stroke-width="1"/>
+
+  <text x="367" y="155" text-anchor="middle" fill="#666" font-size="9" letter-spacing="3" font-family="'Helvetica Neue', sans-serif">PHASE 2</text>
+  <text x="367" y="175" text-anchor="middle" fill="#1a1a1a" font-size="16" font-weight="400">Cell Division</text>
+  <text x="367" y="192" text-anchor="middle" fill="#999" font-size="9" font-style="italic">6–18 months</text>
+
+  <line x1="285" y1="205" x2="450" y2="205" stroke="#eee" stroke-width="0.5"/>
+
+  <text x="285" y="225" fill="#1a1a1a" font-size="9" font-family="'Helvetica Neue', sans-serif" font-weight="500">Workforce</text>
+  <text x="285" y="242" fill="#666" font-size="9">5–10 humans</text>
+  <text x="285" y="257" fill="#666" font-size="9">50 AI agents</text>
+  <text x="285" y="272" fill="#666" font-size="9">2–5 humanoids</text>
+
+  <line x1="285" y1="283" x2="450" y2="283" stroke="#eee" stroke-width="0.5"/>
+
+  <text x="285" y="300" fill="#1a1a1a" font-size="9" font-family="'Helvetica Neue', sans-serif" font-weight="500">Focus</text>
+  <text x="285" y="316" fill="#666" font-size="8.5">Revenue generation</text>
+  <text x="285" y="330" fill="#666" font-size="8.5">Humanoid fleet pilot</text>
+  <text x="285" y="344" fill="#666" font-size="8.5">Token launch</text>
+
+  <line x1="285" y1="355" x2="450" y2="355" stroke="#eee" stroke-width="0.5"/>
+
+  <text x="285" y="372" fill="#1a1a1a" font-size="9" font-family="'Helvetica Neue', sans-serif" font-weight="500">Governance</text>
+  <text x="285" y="388" fill="#666" font-size="8.5">Liquid + Conviction voting</text>
+
+  <line x1="285" y1="400" x2="450" y2="400" stroke="#eee" stroke-width="0.5"/>
+
+  <text x="285" y="417" fill="#1a1a1a" font-size="9" font-family="'Helvetica Neue', sans-serif" font-weight="500">Autonomy</text>
+  <rect x="285" y="424" width="170" height="6" rx="3" fill="#eee"/>
+  <rect x="285" y="424" width="68" height="6" rx="3" fill="#666"/>
+  <text x="285" y="445" fill="#999" font-size="7.5" font-family="'Helvetica Neue', sans-serif">40%</text>
+
+  <!-- ═══ PHASE 3 ═══ -->
+  <rect x="490" y="130" width="215" height="330" rx="2" fill="none" stroke="#999" stroke-width="1"/>
+
+  <text x="597" y="155" text-anchor="middle" fill="#999" font-size="9" letter-spacing="3" font-family="'Helvetica Neue', sans-serif">PHASE 3</text>
+  <text x="597" y="175" text-anchor="middle" fill="#1a1a1a" font-size="16" font-weight="400">Colony</text>
+  <text x="597" y="192" text-anchor="middle" fill="#999" font-size="9" font-style="italic">18–36 months</text>
+
+  <line x1="515" y1="205" x2="680" y2="205" stroke="#eee" stroke-width="0.5"/>
+
+  <text x="515" y="225" fill="#1a1a1a" font-size="9" font-family="'Helvetica Neue', sans-serif" font-weight="500">Workforce</text>
+  <text x="515" y="242" fill="#666" font-size="9">10–20 humans</text>
+  <text x="515" y="257" fill="#666" font-size="9">500 AI agents</text>
+  <text x="515" y="272" fill="#666" font-size="9">20–50 humanoids</text>
+
+  <line x1="515" y1="283" x2="680" y2="283" stroke="#eee" stroke-width="0.5"/>
+
+  <text x="515" y="300" fill="#1a1a1a" font-size="9" font-family="'Helvetica Neue', sans-serif" font-weight="500">Focus</text>
+  <text x="515" y="316" fill="#666" font-size="8.5">Multi-market expansion</text>
+  <text x="515" y="330" fill="#666" font-size="8.5">Futarchy markets live</text>
+  <text x="515" y="344" fill="#666" font-size="8.5">DAO-as-a-Service</text>
+
+  <line x1="515" y1="355" x2="680" y2="355" stroke="#eee" stroke-width="0.5"/>
+
+  <text x="515" y="372" fill="#1a1a1a" font-size="9" font-family="'Helvetica Neue', sans-serif" font-weight="500">Governance</text>
+  <text x="515" y="388" fill="#666" font-size="8.5">Full stack + Emergency DAO</text>
+
+  <line x1="515" y1="400" x2="680" y2="400" stroke="#eee" stroke-width="0.5"/>
+
+  <text x="515" y="417" fill="#1a1a1a" font-size="9" font-family="'Helvetica Neue', sans-serif" font-weight="500">Autonomy</text>
+  <rect x="515" y="424" width="170" height="6" rx="3" fill="#eee"/>
+  <rect x="515" y="424" width="119" height="6" rx="3" fill="#999"/>
+  <text x="515" y="445" fill="#999" font-size="7.5" font-family="'Helvetica Neue', sans-serif">70%</text>
+
+  <!-- ═══ PHASE 4 ═══ -->
+  <rect x="720" y="130" width="215" height="330" rx="2" fill="none" stroke="#ccc" stroke-width="1"/>
+
+  <text x="827" y="155" text-anchor="middle" fill="#aaa" font-size="9" letter-spacing="3" font-family="'Helvetica Neue', sans-serif">PHASE 4</text>
+  <text x="827" y="175" text-anchor="middle" fill="#1a1a1a" font-size="16" font-weight="400">Organism</text>
+  <text x="827" y="192" text-anchor="middle" fill="#999" font-size="9" font-style="italic">36+ months</text>
+
+  <line x1="745" y1="205" x2="910" y2="205" stroke="#eee" stroke-width="0.5"/>
+
+  <text x="745" y="225" fill="#1a1a1a" font-size="9" font-family="'Helvetica Neue', sans-serif" font-weight="500">Workforce</text>
+  <text x="745" y="242" fill="#666" font-size="9">20–50 humans</text>
+  <text x="745" y="257" fill="#666" font-size="9">5,000+ AI agents</text>
+  <text x="745" y="272" fill="#666" font-size="9">100+ humanoids</text>
+
+  <line x1="745" y1="283" x2="910" y2="283" stroke="#eee" stroke-width="0.5"/>
+
+  <text x="745" y="300" fill="#1a1a1a" font-size="9" font-family="'Helvetica Neue', sans-serif" font-weight="500">Focus</text>
+  <text x="745" y="316" fill="#666" font-size="8.5">Self-evolving processes</text>
+  <text x="745" y="330" fill="#666" font-size="8.5">AI-designed workflows</text>
+  <text x="745" y="344" fill="#666" font-size="8.5">Cross-DAO collaboration</text>
+
+  <line x1="745" y1="355" x2="910" y2="355" stroke="#eee" stroke-width="0.5"/>
+
+  <text x="745" y="372" fill="#1a1a1a" font-size="9" font-family="'Helvetica Neue', sans-serif" font-weight="500">Governance</text>
+  <text x="745" y="388" fill="#666" font-size="8.5">AI-assisted, human veto only</text>
+
+  <line x1="745" y1="400" x2="910" y2="400" stroke="#eee" stroke-width="0.5"/>
+
+  <text x="745" y="417" fill="#1a1a1a" font-size="9" font-family="'Helvetica Neue', sans-serif" font-weight="500">Autonomy</text>
+  <rect x="745" y="424" width="170" height="6" rx="3" fill="#eee"/>
+  <rect x="745" y="424" width="153" height="6" rx="3" fill="#ccc"/>
+  <text x="745" y="445" fill="#999" font-size="7.5" font-family="'Helvetica Neue', sans-serif">90%</text>
+
+  <!-- Bottom rule -->
+  <line x1="40" y1="480" x2="920" y2="480" stroke="#1a1a1a" stroke-width="0.5"/>
+  <text x="480" y="494" text-anchor="middle" fill="#bbb" font-size="7.5" font-family="'Helvetica Neue', sans-serif" letter-spacing="0.5">Each phase validates before advancing · Governance complexity grows with organizational maturity</text>
+</svg>
